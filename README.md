@@ -1,1 +1,2 @@
-# caitlin-proxy
+# additional-information-proxy
+proxy for Zill-Woah!
